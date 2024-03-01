@@ -66,7 +66,7 @@
         }
 
         #banner {
-            background: url('C:/Users/Aftab Shargh/Desktop/ /html/2بنر سایت.png.png') center/cover no-repeat;
+            background: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/2بنر سایت.png.png') center/cover no-repeat;
             height: 300px;
             position: relative;
             margin-top: 0px;
@@ -191,7 +191,7 @@
 
 
         #sampleWorksBtn {
-            background: url('C:/Users/Aftab Shargh/Desktop/ /html/your-sample-works-image.jpg') center/cover no-repeat;
+            background: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/your-sample-works-image.jpg') center/cover no-repeat;
             width: 250px;
             height: 150px;
             color: transparent;
@@ -216,10 +216,10 @@
     <div id="topBar"></div>
 
     <div id="iconsBar">
-        <a id="emailIcon" class="icon" href="mailto:qaem.qaemi.2022@gmail.com"><img src="C:/Users/Aftab Shargh/Desktop/ /html/Checlk Alt Square.png.png"></a>
-        <a id="appIcon" class="icon" href="https://harfeto.timefriend.net/17091079546501"><img src="C:/Users/Aftab Shargh/Desktop/ /html/ناشناس.png"></a>
-        <a id="rubikaIcon" class="icon" href="https://rubika.ir/QaemGraph"><img src="C:/Users/Aftab Shargh/Desktop/ /html/minimal.png.png" alt="Rubika Icon"></a>
-        <a id="contactIcon" class="icon" href="tel:+09156045863"><img src="C:/Users/Aftab Shargh/Desktop/ /html/تلفن.png"></a>
+        <a id="emailIcon" class="icon" href="mailto:qaem.qaemi.2022@gmail.com"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/Checlk Alt Square.png.png"></a>
+        <a id="appIcon" class="icon" href="https://harfeto.timefriend.net/17091079546501"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/ناشناس.png"></a>
+        <a id="rubikaIcon" class="icon" href="https://rubika.ir/QaemGraph"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/minimal.png.png" alt="Rubika Icon"></a>
+        <a id="contactIcon" class="icon" href="tel:+09156045863"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/تلفن.png"></a>
     </div>
 
     <div id="banner"></div>
@@ -237,7 +237,7 @@
         </h3>
 <!-- تصویر به عنوان عنصر قابل کلیک -->
        <div id="customImage" onclick="window.location.href='https://rubika.ir/QaemGraph'">
-          <img src="C:/Users/Aftab Shargh/Desktop/ /html/کلید سفارش2.jpg" alt="Custom Image">
+          <img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/کلید سفارش2.jpg" alt="Custom Image">
       
 
     </div>
@@ -250,18 +250,18 @@
         </div>
 
     <div id="sampleWorksContainer">
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت2.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت3.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت4.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت5.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت6.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت7.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت8.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت9.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت10.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت11.jpg');"></div>
-        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/ /html/بنر سایت 12.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت2.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت3.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت4.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت5.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت6.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت7.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت8.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت9.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت10.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت11.jpg');"></div>
+        <div class="sampleWork" style="background-image: url('C:/Users/Aftab Shargh/Desktop/QaemGraph2024/بنر سایت 12.jpg');"></div>
         
         
        
@@ -288,7 +288,7 @@
     <footer>
         <div id="socialMedia">
             <a href="https://rubika.ir/QaemGraph">
-                <img src="C:/Users/Aftab Shargh/Desktop/ /html/minimal.png.png" alt="Rubika Icon">
+                <img src="C:/Users/Aftab Shargh/Desktop/QaemGraph2024/minimal.png.png" alt="Rubika Icon">
                 @QaemGraph
             </a>
         </div>
